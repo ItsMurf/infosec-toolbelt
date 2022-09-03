@@ -90,6 +90,6 @@
 * CyberChef
 * StegCracker
 
-### Decoders
+### Online Decoders
 * CyberChef
 * dcode.fr
