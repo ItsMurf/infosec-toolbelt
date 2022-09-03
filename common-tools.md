@@ -20,17 +20,18 @@
 * LastPass
 * PassPack
 
-### Password Cracking
+### Password/Key Cracking
 * HashCat
 * John the Ripper
 * Aircrack-ng
+* Creddump
 
 ### Linux Distributions
 * Kali _(be wary whilst using)_
 * Parrot Security OS
-* Debian
-* Ubuntu
-* Pop!_OS 
+* Fedora Security Lab
+* Pentoo
+* Wifislax
 
 ### Languages
 * Python
@@ -50,7 +51,7 @@
 * Bloodhound
 * Testimo
 
-### Intrution Detection System (NIDS and IDS)
+### Intrusion Detection System (NIDS and IDS)
 * Snort
 * Suricata
 * WAZUH
@@ -67,13 +68,28 @@
 * Buscador
 * SocialCatfish
 
-### Network
+### Network Assessment
 * Airmon-ng
-* Wireshark
 * Burp Suite
+* Wireshark
 * Nmap
 
 ### Network Recon Search Engines
 * Shodan.io
 * Censys
 * IVRE
+
+### Steganography 
+* Exiftool
+* Pngcheck
+* Steghide
+* Stegsolve
+* SmartDeblur
+* Foremost
+* Zsteg
+* CyberChef
+* StegCracker
+
+### Decoders
+* CyberChef
+* dcode.fr
