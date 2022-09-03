@@ -4,7 +4,7 @@
 * [TryHackMe](https://tryhackme.com/)
 * [Hack The Box](https://www.hackthebox.com/)
 * [Pentester Lab](https://pentesterlab.com/)
-* [CFT Time]([https://cftt](https://ctftime.org/))
+* [CFT Time](https://ctftime.org/)
 
 ### News Feeds
 * [Slashdot](https://slashdot.org/)
