@@ -1,6 +1,7 @@
 # Media Resources
 
 ### News Feeds
+_Add these to an RSS feed, it's much simpler to handle!_
 * [Slashdot](https://slashdot.org/)
 * [ThreatPost](https://threatpost.com/)
 * [BleepingComputer](https://www.bleepingcomputer.com/)
