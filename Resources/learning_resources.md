@@ -1,5 +1,6 @@
 # Learning Resources
 
+* [HackTricks](https://book.hacktricks.xyz) - Not a hands on resource but something I reference all the time at work
 * [PicoCTF](https://picoctf.com)
 * [TryHackMe](https://tryhackme.com)
 * [HackTheBox](https://hackthebox.eu)
