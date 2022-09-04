@@ -19,6 +19,8 @@ _Add these to an RSS feed, it's much simpler to handle!_
 
 ### YouTube
 * [Seytonic](https://www.youtube.com/c/Seytonic) _(fan favorite)_
+* [ippsec](https://www.youtube.com/c/ippsec)
+  - Search the [website](http://ippsec.rocks) for timestamps of videos
 * [Network Chuck](https://www.youtube.com/c/networkchuck)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [NullByte](https://www.youtube.com/c/NullByteWHT)
