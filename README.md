@@ -14,3 +14,6 @@ This repository contains an introduction to what the world of Cybersecurity enta
 * [Media Sources](https://github.com/ItsMurf/cybersec-toolbelt/blob/main/Resources/media_resources.md)
 * [Learning Sources](https://github.com/ItsMurf/cybersec-toolbelt/blob/main/Resources/learning_resources.md)
 * [Certifications](https://github.com/ItsMurf/cybersec-toolbelt/blob/main/Resources/certifications.md)
+
+### Guides
+* [Linux Essentials](https://github.com/ItsMurf/cybersec-toolbelt/blob/main/Guides/linux_essentials.md)
