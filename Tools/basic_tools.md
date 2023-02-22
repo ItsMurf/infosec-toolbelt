@@ -17,7 +17,7 @@
 * SHELL
 * JavaScript
 * Django Framework
-* Git (Markdown)
+* Markdown
 
 ### Linux Distributions
 * Kali _(be wary whilst using)_
