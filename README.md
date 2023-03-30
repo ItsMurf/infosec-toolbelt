@@ -1,4 +1,4 @@
-# Cybersec-Toolbelt
+# infosec-toolbelt
 
 This repository contains an introduction to what the world of Cybersecurity entails including common tools, certifications, media resources, learning resources, etc. 
 
