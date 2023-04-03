@@ -24,6 +24,7 @@
 * [Foremost](https://www.kali.org/tools/foremost/)
 * [Zsteg](https://wiki.bi0s.in/steganography/zsteg/)
 * [StegCracker](https://www.kali.org/tools/stegcracker/)
+* [Aperi'Solve](https://www.aperisolve.com/)
 
 ### Network Analysis
 * [Aircrack-ng](https://www.aircrack-ng.org/)
