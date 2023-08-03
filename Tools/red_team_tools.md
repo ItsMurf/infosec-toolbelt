@@ -7,6 +7,7 @@
 * [nmap](https://nmap.org/)
 * [buster](https://github.com/sham00n/buster)
 * [SpiderFoot](https://github.com/smicallef/spiderfoot)
+* [subfinder](https://github.com/projectdiscovery/subfinder)
 
 ### Password/Key Cracking
 * [HashCat](https://hashcat.net/hashcat/)
